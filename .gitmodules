@@ -1,0 +1,3 @@
+[submodule "GoFizzBuzzServer"]
+	path = GoFizzBuzzServer
+	url = https://github.com/4423/GoFizzBuzzServer.git
